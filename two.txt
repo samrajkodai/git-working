@@ -1,2 +1,0 @@
-django is the important framwork
-python is the high level language
